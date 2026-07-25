@@ -1,0 +1,8 @@
+executable              = mc_batch.sh
+output                  = /afs/cern.ch/work/b/beturk/private/snd/dl_general/condor/$(ClusterID).$(ProcID).out
+error                   = /afs/cern.ch/work/b/beturk/private/snd/dl_general/condor/$(ClusterID).$(ProcID).err
+log                     = /afs/cern.ch/work/b/beturk/private/snd/dl_general/condor/$(ClusterID).$(ProcID).log
+getenv = true
++JobFlavour = "longlunch"
+request_gpus = 1
+queue

@@ -1,0 +1,5 @@
+for d in */; do (cd "$d" && condor_submit submitfile.sub); done
+
+find /eos/user/b/beturk/snd/dl_general/dl_energy_v6 -mindepth 2 -maxdepth 2 -not -name "checkpoints" -exec rm -rf {} +
+
+for dir in ../*/; do cp main.py "$dir"; done
