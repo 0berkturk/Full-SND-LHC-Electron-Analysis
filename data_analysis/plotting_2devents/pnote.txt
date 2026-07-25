@@ -1,0 +1,4 @@
+python save_2devent.py -r 5874 -en 16879588 --rootbatch --extension pdf
+
+
+python -i display.py -p /eos/user/c/cdinc/Magnetic_moment_signal/ -f sndLHC.Ntuple-TGeant4_digCPP.root

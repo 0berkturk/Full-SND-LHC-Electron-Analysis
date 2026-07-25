@@ -1,0 +1,1198 @@
+nohup: ignoring input
+Linux lxplus913.cern.ch 5.14.0-611.55.1.el9_7.x86_64 #1 SMP PREEMPT_DYNAMIC Sat May 9 13:31:46 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+Loading latest ecal file: /eos/user/b/beturk/snd/dl_general/dl_cls_v9/resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal/checkpoints/model_ecal_20260505-1327_epoch-4.pt
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_1.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_1.pt']...
+KRİTİK UYARI: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_1.pt dosyası bozuk. Atlanıyor! Detay: PytorchStreamReader failed reading zip archive: failed finding central directory
+zero data, passing this
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_10.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_10.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_10.pt: 35/8333 passed cuts.
+35 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 35 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_10_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_10_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_10_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_10_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_10_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_10_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_11.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_11.pt']...
+zero data, passing this
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_12.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_12.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_12.pt: 60/7864 passed cuts.
+60 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 60 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_12_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_12_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_12_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_12_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_12_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_12_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_13.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_13.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_13.pt: 41/7556 passed cuts.
+41 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 41 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_13_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_13_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_13_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_13_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_13_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_13_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_14.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_14.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_14.pt: 54/6760 passed cuts.
+54 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 54 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_14_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_14_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_14_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_14_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_14_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_14_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_15.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_15.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_15.pt: 45/7715 passed cuts.
+45 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 45 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_15_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_15_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_15_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_15_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_15_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_15_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_16.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_16.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_16.pt: 71/6704 passed cuts.
+71 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 71 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_16_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_16_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_16_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_16_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_16_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_16_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_17.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_17.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_17.pt: 47/6024 passed cuts.
+47 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 47 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_17_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_17_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_17_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_17_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_17_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_17_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_18.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_18.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_18.pt: 22/767 passed cuts.
+22 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 22 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_18_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_18_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_18_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_18_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_18_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_18_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_19.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_19.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_19.pt: 39/803 passed cuts.
+39 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 39 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_19_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_19_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_19_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_19_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_19_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_19_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_2.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_2.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_2.pt: 46/7936 passed cuts.
+46 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 46 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_2_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_2_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_2_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_2_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_2_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_2_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_20.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_20.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_20.pt: 31/780 passed cuts.
+31 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 31 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_20_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_20_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_20_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_20_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_20_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_20_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_21.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_21.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_21.pt: 12/1156 passed cuts.
+12 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 12 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_21_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_21_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_21_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_21_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_21_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_21_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_22.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_22.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_22.pt: 8/3160 passed cuts.
+8 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 8 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_22_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_22_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_22_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_22_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_22_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_22_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_23.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_23.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_23.pt: 30/3393 passed cuts.
+30 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 30 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_23_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_23_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_23_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_23_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_23_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_23_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_24.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_24.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_24.pt: 24/2984 passed cuts.
+24 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 24 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_24_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_24_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_24_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_24_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_24_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_24_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_25.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_25.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_25.pt: 31/3171 passed cuts.
+31 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 31 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_25_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_25_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_25_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_25_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_25_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_25_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_26.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_26.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_26.pt: 30/3059 passed cuts.
+30 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 30 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_26_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_26_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_26_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_26_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_26_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_26_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_27.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_27.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_27.pt: 25/2642 passed cuts.
+25 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 25 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_27_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_27_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_27_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_27_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_27_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_27_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_28.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_28.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_28.pt: 31/2834 passed cuts.
+31 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 31 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_28_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_28_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_28_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_28_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_28_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_28_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_29.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_29.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_29.pt: 26/2785 passed cuts.
+26 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 26 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_29_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_29_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_29_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_29_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_29_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_29_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_3.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_3.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_3.pt: 39/6972 passed cuts.
+39 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 39 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_3_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_3_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_3_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_3_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_3_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_3_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_30.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_30.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_30.pt: 24/2548 passed cuts.
+24 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 24 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_30_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_30_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_30_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_30_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_30_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_30_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_31.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_31.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_31.pt: 28/2624 passed cuts.
+28 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 28 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_31_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_31_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_31_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_31_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_31_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_31_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_32.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_32.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_32.pt: 22/2473 passed cuts.
+22 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 22 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_32_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_32_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_32_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_32_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_32_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_32_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_33.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_33.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_33.pt: 21/9550 passed cuts.
+21 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 21 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_33_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_33_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_33_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_33_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_33_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_33_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_34.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_34.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_34.pt: 28/2078 passed cuts.
+28 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 28 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_34_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_34_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_34_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_34_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_34_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_34_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_35.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_35.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_35.pt: 35/1898 passed cuts.
+35 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 35 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_35_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_35_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_35_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_35_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_35_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_35_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_36.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_36.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_36.pt: 23/2107 passed cuts.
+23 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 23 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_36_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_36_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_36_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_36_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_36_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_36_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_37.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_37.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_37.pt: 23/1966 passed cuts.
+23 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 23 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_37_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_37_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_37_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_37_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_37_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_37_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_38.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_38.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_38.pt: 24/2187 passed cuts.
+24 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 24 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_38_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_38_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_38_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_38_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_38_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_38_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_39.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_39.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_39.pt: 27/2115 passed cuts.
+27 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 27 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_39_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_39_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_39_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_39_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_39_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_39_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_4.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_4.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_4.pt: 59/8752 passed cuts.
+59 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 59 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_4_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_4_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_4_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_4_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_4_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_4_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_40.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_40.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_40.pt: 22/1920 passed cuts.
+22 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 22 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_40_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_40_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_40_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_40_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_40_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_40_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_41.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_41.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_41.pt: 27/2149 passed cuts.
+27 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 27 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_41_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_41_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_41_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_41_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_41_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_41_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_42.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_42.pt']...
+zero data, passing this
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_43.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_43.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_43.pt: 6/326 passed cuts.
+6 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 6 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_43_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_43_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_43_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_43_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_43_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_43_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_44.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_44.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_44.pt: 24/10764 passed cuts.
+24 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 24 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_44_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_44_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_44_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_44_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_44_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_44_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_45.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_45.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_45.pt: 22/1365 passed cuts.
+22 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 22 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_45_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_45_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_45_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_45_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_45_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_45_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_46.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_46.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_46.pt: 30/1345 passed cuts.
+30 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 30 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_46_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_46_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_46_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_46_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_46_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_46_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_47.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_47.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_47.pt: 14/885 passed cuts.
+14 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 14 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_47_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_47_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_47_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_47_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_47_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_47_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_48.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_48.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_48.pt: 12/854 passed cuts.
+12 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 12 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_48_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_48_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_48_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_48_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_48_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_48_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_49.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_49.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_49.pt: 19/889 passed cuts.
+19 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 19 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_49_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_49_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_49_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_49_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_49_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_49_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_5.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_5.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_5.pt: 51/7189 passed cuts.
+51 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 51 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_5_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_5_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_5_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_5_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_5_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_5_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_50.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_50.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_50.pt: 12/818 passed cuts.
+12 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 12 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_50_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_50_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_50_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_50_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_50_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_50_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_51.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_51.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_51.pt: 30/968 passed cuts.
+30 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 30 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_51_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_51_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_51_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_51_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_51_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_51_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_52.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_52.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_52.pt: 19/909 passed cuts.
+19 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 19 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_52_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_52_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_52_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_52_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_52_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-5, +5], QDC > 2
+/afs/cern.ch/work/b/beturk/private/miniconda3/envs/myenv/lib/python3.13/site-packages/torch/utils/data/dataloader.py:666: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_52_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+Processing file: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_53.pt
+Loading sparse data from [0, '/eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_53.pt']...
+File /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT/batched_data_2023_53.pt: 13/691 passed cuts.
+13 0
+en3d [tensor(100), tensor(100), tensor(100), tensor(100), tensor(100)]
+Loaded 13 events.
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 0
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_53_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 1
+  -> Saved updated results to: /eos/experiment/sndlhc/users/beturk/Data/PT_names_not_match_with_ROOT_DL_processed/batched_data_2023_53_CLS_resnet_v6_TBHadrons23_MCElectrons_2layer_samexy_cut_ideal__model_ecal_20260505-1327_epoch-4.pt
+
+[DATA] Hit Cuts Updated -> T-Window: [-0.5, +2.3], QDC > 2
