@@ -1,0 +1,9 @@
+executable            = run_fast_cut_rdataframe.sh
+arguments             = 2024 $(ProcId) 100
+output                  = /afs/cern.ch/work/b/beturk/private/snd/test_Beam/condor/$(ClusterID)$(ProcID).out
+error                   = /afs/cern.ch/work/b/beturk/private/snd/test_Beam/condor/$(ClusterID)$(ProcID).err
+log                     = /afs/cern.ch/work/b/beturk/private/snd/test_Beam/condor/$(ClusterID).log
+getenv = true
++JobFlavour = "longlunch"
+request_memory          = 60GB
+queue 1

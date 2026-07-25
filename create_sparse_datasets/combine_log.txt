@@ -1,0 +1,106 @@
+nohup: ignoring input
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'
+Linux lxplus936.cern.ch 5.14.0-687.10.1.el9_8.x86_64 #1 SMP PREEMPT_DYNAMIC Mon May 18 15:13:25 EDT 2026 x86_64 x86_64 x86_64 GNU/Linux
+mkdir: cannot create directory ‘signals’: File exists
+mkdir: cannot create directory ‘/eos/experiment/sndlhc/users/beturk/Data’: File exists
+Traceback (most recent call last):
+  File "/afs/cern.ch/work/b/beturk/private/snd/sparse_datasets/clean_dir/get_sparse_hit_info_v11.py", line 8, in <module>
+    from decorators import *
+ModuleNotFoundError: No module named 'decorators'

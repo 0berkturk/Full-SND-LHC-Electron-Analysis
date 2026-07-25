@@ -1,0 +1,9 @@
+executable              = run_all_single_pg.sh
+output                  = /afs/cern.ch/work/b/beturk/private/snd/condor/out/$(ClusterID)$(ProcID).out
+error                   = /afs/cern.ch/work/b/beturk/private/snd/condor/err/$(ClusterID)$(ProcID).err
+log                     = /afs/cern.ch/work/b/beturk/private/snd/condor/log/$(ClusterID).log
+getenv = True
++JobFlavour = "espresso"
+requirements = (OpSysAndVer =?= "AlmaLinux9")
++SendCredential = true
+queue arguments from z_position.txt

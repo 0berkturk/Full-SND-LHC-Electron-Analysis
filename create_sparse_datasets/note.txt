@@ -1,0 +1,13 @@
+for i in {0..99}; do [ ! -f "/eos/experiment/sndlhc/users/beturk/Data/batched_data_2023_${i}.pt" ] && echo $i; done > missing_ids.txt
+
+
+run fast_cutrdataframe to have no muon system and scifi >>30 hits.
+then use this root files in the rest.
+
+run getsparse..v11.py to create .pt files.
+
+then do data analysis.
+nohup bash -c 'for i in {71..99}; do python fast_cut_rdataframe.py 2025 $i 100 > "out_${i}.out" 2>&1; done' > /dev/null 2>&1 &
+
+nohup bash -c 'for i in {71..99}; do python fast_cut_rdataframe.py 2025 $i 100 > "out_${i}.out" 2>&1; done' > /dev/null 2>&1 &
+for i in {0..10}; do python fast_cut_rdataframe_only9_2022.py 2022 $i 10

@@ -1,0 +1,15 @@
+executable              = step1_combine_data_2023.sh
+
+# HTCondor'un otomatik ürettiği 0-99 arası index'i yolluyoruz
+arguments               = $(ProcId) 10 2022
+
+output                  = /afs/cern.ch/work/b/beturk/private/snd/test_Beam/condor/$(ClusterId)_$(ProcId).out
+error                   = /afs/cern.ch/work/b/beturk/private/snd/test_Beam/condor/$(ClusterId)_$(ProcId).err
+log                     = /afs/cern.ch/work/b/beturk/private/snd/test_Beam/condor/$(ClusterId).log
+
+getenv                  = true
++JobFlavour             = "longlunch"
+request_memory          = 40GB
+#+AccountingGroup        = "group_u_SNDLHC.users"
+
+queue 10
