@@ -1,0 +1,17 @@
+TEST_DATA_DIR_DATA = [
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_100GeV_1Fe_run_100663_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_100GeV_2Fe_run_100664_1.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_100GeV_3Fe_run_100631_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_140GeV_1Fe_run_100661_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_140GeV_2Fe_run_100666_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_140GeV_3Fe_run_100633_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_180GeV_1Fe_run_100659_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_180GeV_2Fe_run_100668_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_180GeV_3Fe_run_100635_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_240GeV_1Fe_run_100654_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_240GeV_2Fe_run_100649_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_240GeV_3Fe_run_100637_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_300GeV_1Fe_run_100653_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_300GeV_2Fe_run_100650_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us),
+("/eos/experiment/sndlhc/users/beturk/2023/small/scifi_us_ds_2023_pions_300GeV_3Fe_run_100638_0.pt",use_us,use_ds, min_pmt_qdc_value, time_window_min, time_window_max,  min_pmt_qdc_value_us, time_window_min_us, time_window_max_us)
+]
