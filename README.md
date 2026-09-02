@@ -16,3 +16,5 @@ Visualization tools to generate physics performance graphs and compare Test Beam
 
 > ⚠️ **CRITICAL WARNING: High Interdependency**
 > Most of the codes in this repository are highly coupled. Modifying, adding, or removing even minor lines of code without a deep understanding of the architecture can break the pipeline or—worse—produce silently biased results. **Please review the data flow and dependencies thoroughly before making any changes.**
+
+The details can be reached from here: https://open.metu.edu.tr/handle/11511/119782
